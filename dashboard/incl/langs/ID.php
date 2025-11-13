@@ -9,11 +9,11 @@
 $language['footer'] = '%1$s, %2$s'; // GDPS, 20xx
 
 $language['account'] = 'Akun';
-$language['userName'] = 'Nama';
-$language['password'] = 'Password';
+$language['userName'] = 'Nama pengguna';
+$language['password'] = 'Kata sandi';
 $language['profile'] = 'Profil';
 $language['settings'] = 'Pengaturan';
-$language['main'] = 'Main';
+$language['main'] = 'Utama';
 $language['userProfile'] = '%1$s\'s profile';
 $language['clanProfile'] = 'Clan %1$s';
 $language['levelProfile'] = 'Level %1$s';
@@ -24,11 +24,11 @@ $language['view'] = 'View';
 $language['levels'] = 'Levels'; // Levels in general
 
 /* Panel strings */
-$language['hidePanel'] = 'Hide panel';
+$language['hidePanel'] = 'Sembunyikan panel';
 $language['home'] = 'Beranda';
 
-$language['changeUsernameTitle'] = 'Change username';
-$language['changePasswordTitle'] = 'Change password';
+$language['changeUsernameTitle'] = 'Ubah nama pengguna';
+$language['changePasswordTitle'] = 'Ubah kata sandi';
 $language['yourLevelsTitle'] = 'Your levels';
 $language['yourListsTitle'] = 'Your lists';
 $language['yourSongsTitle'] = 'Your songs';
@@ -37,7 +37,7 @@ $language['yourSFXsTitle'] = 'Your SFXs';
 
 $language['browse'] = 'Browse';
 $language['accountsTitle'] = 'Accounts'; // "Accounts" as page title
-$language['leaderboardsTitle'] = 'Leaderboards';
+$language['leaderboardsTitle'] = 'Papan peringkat';
 $language['levelsTitle'] = 'Levels'; // "Levels" as page title
 $language['listsTitle'] = 'Lists';
 $language['mapPacksTitle'] = 'Map Packs';

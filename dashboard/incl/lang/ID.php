@@ -2,17 +2,17 @@
 /*
 	Welcome to GDPS core's dashboard language file!
 	You're currently at: English
-	Credits: *your username*
+	Credits: YeahhColix
 */
 
 /* General strings */
 $language['footer'] = '%1$s, %2$s'; // GDPS, 20xx
 
-$language['account'] = 'Account';
-$language['userName'] = 'Username';
+$language['account'] = 'Akun';
+$language['userName'] = 'Nama';
 $language['password'] = 'Password';
-$language['profile'] = 'Profile';
-$language['settings'] = 'Settings';
+$language['profile'] = 'Profil';
+$language['settings'] = 'Pengaturan';
 $language['main'] = 'Main';
 $language['userProfile'] = '%1$s\'s profile';
 $language['clanProfile'] = 'Clan %1$s';
@@ -25,7 +25,7 @@ $language['levels'] = 'Levels'; // Levels in general
 
 /* Panel strings */
 $language['hidePanel'] = 'Hide panel';
-$language['home'] = 'Home';
+$language['home'] = 'Beranda';
 
 $language['changeUsernameTitle'] = 'Change username';
 $language['changePasswordTitle'] = 'Change password';

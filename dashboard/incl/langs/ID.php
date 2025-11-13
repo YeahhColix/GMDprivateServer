@@ -14,14 +14,14 @@ $language['password'] = 'Kata sandi';
 $language['profile'] = 'Profil';
 $language['settings'] = 'Pengaturan';
 $language['main'] = 'Utama';
-$language['userProfile'] = '%1$s\'s profile';
-$language['clanProfile'] = 'Clan %1$s';
+$language['userProfile'] = 'Profil %1$s';
+$language['clanProfile'] = 'Klan %1$s';
 $language['levelProfile'] = 'Level %1$s';
 $language['listProfile'] = 'List %1$s';
-$language['nothingIsPlaying'] = 'Nothing is playing...';
-$language['manage'] = 'Manage';
+$language['nothingIsPlaying'] = 'Tidak ada yang diputar...';
+$language['manage'] = 'Kelola';
 $language['view'] = 'View';
-$language['levels'] = 'Levels'; // Levels in general
+$language['levels'] = 'Level'; // Levels in general
 
 /* Panel strings */
 $language['hidePanel'] = 'Sembunyikan panel';
@@ -29,66 +29,66 @@ $language['home'] = 'Beranda';
 
 $language['changeUsernameTitle'] = 'Ubah nama pengguna';
 $language['changePasswordTitle'] = 'Ubah kata sandi';
-$language['yourLevelsTitle'] = 'Your levels';
+$language['yourLevelsTitle'] = 'Level anda';
 $language['yourListsTitle'] = 'Your lists';
-$language['yourSongsTitle'] = 'Your songs';
-$language['favouriteSongsTitle'] = 'Favourite songs';
-$language['yourSFXsTitle'] = 'Your SFXs';
+$language['yourSongsTitle'] = 'Lagu anda';
+$language['favouriteSongsTitle'] = 'Lagu favorit';
+$language['yourSFXsTitle'] = 'SFX anda';
 
-$language['browse'] = 'Browse';
-$language['accountsTitle'] = 'Accounts'; // "Accounts" as page title
+$language['browse'] = 'Jelajahu';
+$language['accountsTitle'] = 'Akun'; // "Accounts" as page title
 $language['leaderboardsTitle'] = 'Papan peringkat';
-$language['levelsTitle'] = 'Levels'; // "Levels" as page title
-$language['listsTitle'] = 'Lists';
+$language['levelsTitle'] = 'Level'; // "Levels" as page title
+$language['listsTitle'] = 'List';
 $language['mapPacksTitle'] = 'Map Packs';
 $language['gauntletsTitle'] = 'Gauntlets';
-$language['songsTitle'] = 'Songs';
-$language['sfxsTitle'] = 'SFXs';
-$language['clansListTitle'] = 'Clans';
+$language['songsTitle'] = 'Lagu';
+$language['sfxsTitle'] = 'SFX';
+$language['clansListTitle'] = 'Klan';
 $language['moderatorsTitle'] = 'Moderators';
 
-$language['upload'] = 'Uploads';
-$language['uploadSongTitle'] = 'Add a song';
-$language['uploadSFXTitle'] = 'Add a SFX';
+$language['upload'] = 'Unggahan';
+$language['uploadSongTitle'] = 'Tambah lagu';
+$language['uploadSFXTitle'] = 'Tambah SFX';
 $language['reuploadLevelTitle'] = 'Reupload a level';
-$language['runCron'] = 'Run Cron';
+$language['runCron'] = 'Jalankan Cron';
 
-$language['moderatorTools'] = 'Moderator tools';
-$language['banUserTitle'] = 'Ban user';
-$language['addMapPackTitle'] = 'Add Map Pack';
-$language['addGauntletTitle'] = 'Add Gauntlet';
-$language['unlistedLevelsTitle'] = 'Unlisted levels';
-$language['unlistedListsTitle'] = 'Unlisted lists';
-$language['suggestedLevelsTitle'] = 'Suggested levels';
-$language['disabledSongsTitle'] = 'Unlisted songs';
-$language['disabledSFXsTitle'] = 'Unlisted SFXs';
-$language['manageRolesTitle'] = 'Manage roles';
+$language['moderatorTools'] = 'Alat moderator';
+$language['banUserTitle'] = 'Larang pengguna';
+$language['addMapPackTitle'] = 'Tambah Map Pack';
+$language['addGauntletTitle'] = 'Tambah Gauntlet';
+$language['unlistedLevelsTitle'] = 'Level tidak terdaftar';
+$language['unlistedListsTitle'] = 'List tidak terdaftar';
+$language['suggestedLevelsTitle'] = 'Level yang disarankan';
+$language['disabledSongsTitle'] = 'Lagu tidak terdaftar';
+$language['disabledSFXsTitle'] = 'SFX tidak terdaftar';
+$language['manageRolesTitle'] = 'Kelola peran';
 
-$language['clans'] = 'Clans';
+$language['clans'] = 'Klan';
 
-$language['messengerTitle'] = 'Messenger';
-$language['loginToAccountTitle'] = 'Login to account';
-$language['yourProfileTitle'] = 'Your profile';
-$language['logoutFromAccountTitle'] = 'Logout';
-$language['registerAccountTitle'] = 'Register account';
+$language['messengerTitle'] = 'Pesan';
+$language['loginToAccountTitle'] = 'Masuk ke akun';
+$language['yourProfileTitle'] = 'Profilmu';
+$language['logoutFromAccountTitle'] = 'Keluar';
+$language['registerAccountTitle'] = 'Daftar akun';
 
-$language['linksTitle'] = 'Links';
-$language['creditsTitle'] = 'Credits';
+$language['linksTitle'] = 'Tautan';
+$language['creditsTitle'] = 'Kredit';
 
-$language['maintenanceModeTitle'] = 'In maintenance';
-$language['maintenanceModeDesc'] = '%1$s is currently in maintenance, please try again later!';
+$language['maintenanceModeTitle'] = 'Dalam perawatan';
+$language['maintenanceModeDesc'] = '%1$s sedang dalam perawatan, tolong coba lagi nanti!';
 
 /* Error strings */
-$language['errorTitle'] = 'An error has occured';
+$language['errorTitle'] = 'Terjadi kesalahan';
 
 $language['errorNoPermission'] = 'You have no permission to view this page.';
 
 $language['errorFailedToLoadPage'] = 'Failed to load page!';
-$language['errorAlreadyLoggedIn'] = 'You\'re already logged in!';
+$language['errorAlreadyLoggedIn'] = 'Kamu sudah masuk!';
 $language['errorWrongLoginOrPassword'] = 'Wrong username or password!';
-$language['errorLoginRequired'] = 'Login to account!';
+$language['errorLoginRequired'] = 'Masuk ke akun!';
 
-$language['errorUsernameIsTaken'] = 'This username is taken.';
+$language['errorUsernameIsTaken'] = 'Nama pengguna ini telah digunakan.';
 $language['errorBadUsername'] = 'Please choose another username.';
 
 $language['errorSamePasswords'] = 'Old and new passwords are the same.';
@@ -241,12 +241,12 @@ $language['viewComments'] = 'View comments';
 $language['viewLeaderboards'] = 'View leaderboards';
 $language['viewSongs'] = 'View songs';
 $language['viewSFXs'] = 'View SFXs';
-$language['unknownSong'] = 'Unknown song';
-$language['uploadDate'] = 'Upload date';
-$language['noLevels'] = 'No levels!';
+$language['unknownSong'] = 'Lagu tidak diketahui';
+$language['uploadDate'] = 'Tanggal unggahan';
+$language['noLevels'] = 'Tidak ada level!';
 
-$language['comments'] = 'Comments';
-$language['deleteComment'] = 'Delete comment';
+$language['comments'] = 'Komentar';
+$language['deleteComment'] = 'Hapus komentar';
 $language['scores'] = 'Scores';
 $language['nothingOpened'] = 'Nothing is opened!';
 $language['manageLevel'] = 'Manage level';
@@ -256,61 +256,61 @@ $language['noAccounts'] = 'No accounts!';
 
 $language['sortByLikes'] = 'Sort by likes';
 $language['sortByTime'] = 'Sort by time';
-$language['friends'] = 'Friends';
-$language['all'] = 'All';
+$language['friends'] = 'Teman';
+$language['all'] = 'Semua';
 $language['forWeek'] = 'For week';
 $language['sortByPoints'] = 'Sort by points';
 $language['normalScores'] = 'Normal scores';
 $language['dailyScores'] = 'Scores from \'Daily\' tab';
 
-$language['percent'] = 'Percent';
-$language['attempts'] = 'Attempts';
-$language['coins'] = 'Coins';
-$language['clicks'] = 'Clicks';
-$language['time'] = 'Time';
-$language['points'] = 'Points';
+$language['percent'] = 'Persen';
+$language['attempts'] = 'Percobaan';
+$language['coins'] = 'Koin';
+$language['clicks'] = 'Klik';
+$language['time'] = 'Waktu';
+$language['points'] = 'Poin';
 
 $language['writeSomething'] = 'Write something!';
 $language['bannedToast'] = 'You\'re banned: "%1$s", ban will expire %2$s'; // %1$s — ban reason, %2$s — in X time
 
-$language['songs'] = 'Songs';
-$language['sfxs'] = 'SFXs';
+$language['songs'] = 'Lagu';
+$language['sfxs'] = 'SFX';
 
 $language['pageText'] = 'Page %1$s of %2$s';
 
-$language['dashboardSettingsTitle'] = 'Dashboard settings';
+$language['dashboardSettingsTitle'] = 'Pengaturan dasbor';
 
-$language['languageTitle'] = 'Language';
+$language['languageTitle'] = 'Bahasa';
 $language['languageDesc'] = 'Dashboard has many languages, choose one you know most!';
 
-$language['notInClan'] = 'Not in clan';
+$language['notInClan'] = 'Tidak di dalam klan';
 
 $language['songTitle'] = '<text class="big">%1$s</text> — <text class="big">%2$s</text>'; // %1$s — song artist, %2$s — song title
 $language['songID'] = 'Song ID';
 $language['usageCount'] = 'Usage';
-$language['favouritesCount'] = 'Favourites';
+$language['favouritesCount'] = 'Favorit';
 $language['noSongs'] = 'No songs!';
 $language['editSong'] = 'Edit song';
 $language['downloadSong'] = 'Download song';
 
 $language['filters'] = 'Filters';
-$language['searchText'] = 'Search...';
+$language['searchText'] = 'Telusuri...';
 
 $language['originalLevelsTitle'] = 'Original levels';
 $language['originalLevelsDesc'] = 'Levels made without copying other levels';
-$language['coinsTitle'] = 'Coins';
-$language['coinsDesc'] = 'Levels with coins';
+$language['coinsTitle'] = 'Koin';
+$language['coinsDesc'] = 'Level dengan coin';
 $language['twoPlayerTitle'] = 'Two-player mode';
 $language['twoPlayerDesc'] = 'Levels with two-player mode';
-$language['notRatedTitle'] = 'Unrated levels';
-$language['notRatedDesc'] = 'Levels with no stars';
-$language['ratedTitle'] = 'Rated levels';
-$language['ratedDesc'] = 'Levels with stars';
+$language['notRatedTitle'] = 'Level tidak diperingkat';
+$language['notRatedDesc'] = 'Level tanpa peringkat';
+$language['ratedTitle'] = 'Level berperingkat';
+$language['ratedDesc'] = 'Level dengan peringkat';
 $language['featuredDesc'] = 'Levels with Featured rating';
 $language['epicDesc'] = 'Levels with Epic rating';
 $language['legendaryDesc'] = 'Levels with Legendary rating';
 $language['mythicDesc'] = 'Levels with Mythic rating';
-$language['songSettingTitle'] = 'Songs';
+$language['songSettingTitle'] = 'Lagu';
 $language['songSettingDesc'] = 'Levels with custom songs';
 
 $language['levelLengthTinyDesc'] = 'Levels with Tiny length';

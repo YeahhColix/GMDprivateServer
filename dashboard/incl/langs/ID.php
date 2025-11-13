@@ -634,21 +634,21 @@ $language['alsoBanIPDesc'] = 'Ban this user\'s IP too';
 $language['expiryTime'] = 'Expiration';
 $language['expiryTimeDesc'] = 'Date on which the user will be unbanned automatically. This is optional.';
 
-$language['players'] = 'Players';
+$language['players'] = 'Pemain';
 $language['global'] = 'Global';
 $language['creators'] = 'Creators';
 
-$language['manageSongTitle'] = 'Manage song';
-$language['songEnabledTitle'] = 'Enable song';
+$language['manageSongTitle'] = 'Kelola lagu';
+$language['songEnabledTitle'] = 'Aktifkan lagu';
 $language['songEnabledDesc'] = 'If the song is enabled, players will be able to use it in their own levels';
-$language['manageSFXTitle'] = 'Manage SFX';
-$language['sfxEnabledTitle'] = 'Enable SFX';
+$language['manageSFXTitle'] = 'Kelola SFX';
+$language['sfxEnabledTitle'] = 'Aktifkan SFX';
 $language['sfxEnabledDesc'] = 'If the SFX is enabled, players will be able to use it in their own levels';
 
-$language['cancel'] = 'Cancel';
-$language['deleteSongDesc'] = 'Are you sure you want to delete this song?';
-$language['deleteSFXDesc'] = 'Are you sure you want to delete this SFX?';
-$language['deleteLevelDesc'] = 'Are you sure you want to delete this level?';
+$language['cancel'] = 'Batal';
+$language['deleteSongDesc'] = 'Apakah kamu yakin ingin menghapus lagu ini?';
+$language['deleteSFXDesc'] = 'Apakah kamu yakin ingin menghapus SFX ini?';
+$language['deleteLevelDesc'] = 'Apakah kamu yakin ingin menghapus level ini?';
 $language['deleteListDesc'] = 'Are you sure you want to delete this list?';
 $language['deleteGauntletDesc'] = 'Are you sure you want to delete this Gauntlet?';
 $language['deleteGauntletNotice'] = 'It is not recommended to delete Gauntlets, as it could interfere with current players\' stats!';

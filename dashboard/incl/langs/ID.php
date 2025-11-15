@@ -20,7 +20,7 @@ $language['levelProfile'] = 'Level %1$s';
 $language['listProfile'] = 'List %1$s';
 $language['nothingIsPlaying'] = 'Tidak ada yang diputar...';
 $language['manage'] = 'Kelola';
-$language['view'] = 'View';
+$language['view'] = 'Lihat';
 $language['levels'] = 'Level'; // Levels in general
 
 /* Panel strings */
@@ -30,12 +30,12 @@ $language['home'] = 'Beranda';
 $language['changeUsernameTitle'] = 'Ubah nama pengguna';
 $language['changePasswordTitle'] = 'Ubah kata sandi';
 $language['yourLevelsTitle'] = 'Level anda';
-$language['yourListsTitle'] = 'Your lists';
+$language['yourListsTitle'] = 'List anda';
 $language['yourSongsTitle'] = 'Lagu anda';
 $language['favouriteSongsTitle'] = 'Lagu favorit';
 $language['yourSFXsTitle'] = 'SFX anda';
 
-$language['browse'] = 'Jelajahu';
+$language['browse'] = 'Jelajahi';
 $language['accountsTitle'] = 'Akun'; // "Accounts" as page title
 $language['leaderboardsTitle'] = 'Papan peringkat';
 $language['levelsTitle'] = 'Level'; // "Levels" as page title
@@ -81,36 +81,36 @@ $language['maintenanceModeDesc'] = '%1$s sedang dalam perawatan, tolong coba lag
 /* Error strings */
 $language['errorTitle'] = 'Terjadi kesalahan';
 
-$language['errorNoPermission'] = 'You have no permission to view this page.';
+$language['errorNoPermission'] = 'Kamu tidak punya izin untuk melihat halaman ini.';
 
-$language['errorFailedToLoadPage'] = 'Failed to load page!';
+$language['errorFailedToLoadPage'] = 'Tidak dapat memuat halaman.';
 $language['errorAlreadyLoggedIn'] = 'Kamu sudah masuk!';
-$language['errorWrongLoginOrPassword'] = 'Wrong username or password!';
+$language['errorWrongLoginOrPassword'] = 'Nama pengguna atau kata sandi salah!';
 $language['errorLoginRequired'] = 'Masuk ke akun!';
 
 $language['errorUsernameIsTaken'] = 'Nama pengguna ini telah digunakan.';
-$language['errorBadUsername'] = 'Please choose another username.';
+$language['errorBadUsername'] = 'Mohon pilih nama pengguna yang berbeda.';
 
-$language['errorSamePasswords'] = 'Old and new passwords are the same.';
-$language['errorBadPassword'] = 'Please choose another password.';
+$language['errorSamePasswords'] = 'Kata sandi lama dan baru sama.';
+$language['errorBadPassword'] = 'Mohon pilih kata sandi yang berbeda.';
 
-$language['errorLevelNotFound'] = 'Level wasn\'t found!';
+$language['errorLevelNotFound'] = 'Level tidak ditemukan!';
 
-$language['errorCantDeleteComment'] = 'You can\'t delete this comment.';
-$language['errorCantDeleteScore'] = 'You can\'t delete this score.';
-$language['errorBadComment'] = 'Your comment contains a bad word.';
+$language['errorCantDeleteComment'] = 'Kamu tidak dapat menghapus komentar ini.';
+$language['errorCantDeleteScore'] = 'Kamu tidak dapat menghapus skor ini.';
+$language['errorBadComment'] = 'Komentar anda berisi kata kasar.';
 $language['errorCommentingIsDisabled'] = 'Commenting is currently disabled.';
 $language['errorLevelCommentingIsDisabled'] = 'Commenting on this level is currently disabled.';
 $language['errorListCommentingIsDisabled'] = 'Commenting on this list is currently disabled.';
 
-$language['errorCantDeletePost'] = 'You can\'t delete this post.';
-$language['errorBadPost'] = 'Your post contains a bad word.';
-$language['errorPostingIsDisabled'] = 'Creating posts is disabled.';
+$language['errorCantDeletePost'] = 'Kamu tidak dapat menghapus postingan ini.';
+$language['errorBadPost'] = 'Postingan anda berisi kata kasar.';
+$language['errorPostingIsDisabled'] = 'Membuat postingan sedang dinonaktifkan.';
 
-$language['errorSongNotFound'] = 'Song wasn\'t found!';
-$language['errorSFXNotFound'] = 'SFX wasn\'t found!';
+$language['errorSongNotFound'] = 'Lagu tidak ditemukan!';
+$language['errorSFXNotFound'] = 'SFX tidak ditemukan!';
 
-$language['errorListNotFound'] = 'List wasn\'t found!';
+$language['errorListNotFound'] = 'List tidak ditemukan!';
 
 $language['errorCouldntReadFile'] = 'An error has occured when processing this file!';
 $language['errorIsNotAnAudio'] = 'This is not an audio!';
@@ -119,7 +119,7 @@ $language['errorFileIsEmpty'] = 'This file is empty!';
 $language['errorInvalidURL'] = 'Invalid song URL!';
 $language['errorAlreadyReuploaded'] = 'This song already exists under ID <text dashboard-copy>%1$s</text>!';
 
-$language['errorPageIsDisabled'] = 'This page is disabled!';
+$language['errorPageIsDisabled'] = 'Halaman ini dinonaktifkan!';
 $language['errorSongRateLimit'] = 'You\'re uploading too many audio in a short amount of time, try again in a few minutes!';
 
 $language['errorReuploadSameServer'] = 'You specified same server for reuploading!';
@@ -135,29 +135,29 @@ $language['errorFailedToWriteLevel'] = 'An error has occured while trying to sav
 $language['errorCronTooFast'] = 'Please wait a few minutes before running Cron again!';
 
 $language['errorPlayerNotFound'] = 'User wasn\'t found!';
-$language['errorBadName'] = 'Please choose another name!';
-$language['errorBadDesc'] = 'Please choose another description!';
+$language['errorBadName'] = 'Mohon pilih nama yang lain!';
+$language['errorBadDesc'] = 'Mohon pilih deskripsi yang lain!';
 
 $language['errorAccountsAutomod'] = 'You may not create accounts for now!';
-$language['errorUsernameTooShort'] = 'This username is too short!';
-$language['errorPasswordTooShort'] = 'This password is too short!';
+$language['errorUsernameTooShort'] = 'Nama pengguna ini terlalu pendek!';
+$language['errorPasswordTooShort'] = 'Kata sandi ini terlalu pendek!';
 $language['errorPasswordsDontMatch'] = 'Your passwords don\'t match!';
 $language['errorEmailsDontMatch'] = 'Your emails don\'t match!';
 $language['errorBadEmail'] = 'Please choose another email!';
 $language['errorEmailInUse'] = 'There is an account using this email!';
 
-$language['errorGauntletNotFound'] = 'Gauntlet wasn\'t found!';
+$language['errorGauntletNotFound'] = 'Gauntlet tidak ditemukan!';
 $language['errorGauntletWrongLevelsCount'] = 'Gauntlet can have only 5 levels!';
 $language['errorMultipleLevelsNotFound'] = 'You specified non-existing levels!';
 
 $language['errorFailedToGetGMD'] = 'An error occured while trying to get level data!';
 
-$language['errorMapPackNotFound'] = 'Map Pack wasn\'t found!';
+$language['errorMapPackNotFound'] = 'Map Pack tidak ditemukan!';
 $language['errorMapPackNoLevels'] = 'You didn\'t specify any levels!';
 
 $language['errorGauntletAlreadyExists'] = 'This Gauntlet already exists!';
-$language['errorAccountNotFound'] = 'Account wasn\'t found!';
-$language['errorRoleNotFound'] = 'Role wasn\'t found!';
+$language['errorAccountNotFound'] = 'Akun tidak ditemukan!';
+$language['errorRoleNotFound'] = 'Peran tidak ditemukan!';
 
 $language['errorCantBanYourself'] = 'You can\'t ban yourself!';
 $language['errorUserIsBanned'] = 'This user is already banned!';
@@ -217,16 +217,16 @@ $language['successDeletedGauntlet'] = 'You successfully deleted this Gauntlet!';
 $language['successDeletedMapPack'] = 'You successfully deleted this Map Pack!';
 
 /* Page strings */
-$language['changeUsernameOld'] = 'Old username';
-$language['changeUsernameNew'] = 'New username';
+$language['changeUsernameOld'] = 'Nama pengguna lama';
+$language['changeUsernameNew'] = 'Nama pengguna baru';
 
-$language['loginToAccountButton'] = 'Login';
+$language['loginToAccountButton'] = 'Masuk';
 
 $language['changePasswordOld'] = 'Old password';
 $language['changePasswordNew'] = 'New password';
 
-$language['levelTitle'] = '<text class="big">%1$s</text> by %2$s'; // %1$s — level name, %2$s — username
-$language['levelTitlePlain'] = '%1$s by %2$s'; // %1$s — level name, %2$s — username
+$language['levelTitle'] = '<text class="big">%1$s</text> oleh %2$s'; // %1$s — level name, %2$s — username
+$language['levelTitlePlain'] = '%1$s oleh %2$s'; // %1$s — level name, %2$s — username
 $language['stars'] = 'Stars';
 $language['requestedStars'] = 'Requested stars';
 $language['noDescription'] = 'No description provided';
@@ -236,20 +236,20 @@ $language['downloads'] = 'Downloads';
 $language['likes'] = 'Likes';
 $language['dislikes'] = 'Dislikes';
 $language['rating'] = 'Rating';
-$language['viewLevel'] = 'View level';
-$language['viewComments'] = 'View comments';
-$language['viewLeaderboards'] = 'View leaderboards';
-$language['viewSongs'] = 'View songs';
-$language['viewSFXs'] = 'View SFXs';
+$language['viewLevel'] = 'Lihat level';
+$language['viewComments'] = 'Lihat komentar';
+$language['viewLeaderboards'] = 'Lihat papan peringkat';
+$language['viewSongs'] = 'Lihat lagu';
+$language['viewSFXs'] = 'Lihat SFX';
 $language['unknownSong'] = 'Lagu tidak diketahui';
 $language['uploadDate'] = 'Tanggal unggahan';
 $language['noLevels'] = 'Tidak ada level!';
 
 $language['comments'] = 'Komentar';
 $language['deleteComment'] = 'Hapus komentar';
-$language['scores'] = 'Scores';
-$language['nothingOpened'] = 'Nothing is opened!';
-$language['manageLevel'] = 'Manage level';
+$language['scores'] = 'Skor';
+$language['nothingOpened'] = 'Tidak ada yang dibuka!';
+$language['manageLevel'] = 'Kelola level';
 $language['noComments'] = 'No comments!';
 $language['noScores'] = 'No scores!';
 $language['noAccounts'] = 'No accounts!';
@@ -640,10 +640,10 @@ $language['creators'] = 'Creators';
 
 $language['manageSongTitle'] = 'Kelola lagu';
 $language['songEnabledTitle'] = 'Aktifkan lagu';
-$language['songEnabledDesc'] = 'If the song is enabled, players will be able to use it in their own levels';
+$language['songEnabledDesc'] = 'Kalau lagu diaktifkan, pemain dapat menggunakannya di level mereka.';
 $language['manageSFXTitle'] = 'Kelola SFX';
 $language['sfxEnabledTitle'] = 'Aktifkan SFX';
-$language['sfxEnabledDesc'] = 'If the SFX is enabled, players will be able to use it in their own levels';
+$language['sfxEnabledDesc'] = 'Kalau SFX diaktifkan, pemain dapat menggunakannya di level mereka.';
 
 $language['cancel'] = 'Batal';
 $language['deleteSongDesc'] = 'Apakah kamu yakin ingin menghapus lagu ini?';

@@ -1,7 +1,7 @@
 <?php
 /*
 	Welcome to GDPS core's dashboard language file!
-	You're currently at: English
+	You're currently at: Indonesian
 	Credits: YeahhColix
 */
 
@@ -99,7 +99,7 @@ $language['errorLevelNotFound'] = 'Level tidak ditemukan!';
 $language['errorCantDeleteComment'] = 'Kamu tidak dapat menghapus komentar ini.';
 $language['errorCantDeleteScore'] = 'Kamu tidak dapat menghapus skor ini.';
 $language['errorBadComment'] = 'Komentar anda berisi kata kasar.';
-$language['errorCommentingIsDisabled'] = 'Commenting is currently disabled.';
+$language['errorCommentingIsDisabled'] = 'Berkomentar sedang dinonaktifkan.';
 $language['errorLevelCommentingIsDisabled'] = 'Commenting on this level is currently disabled.';
 $language['errorListCommentingIsDisabled'] = 'Commenting on this list is currently disabled.';
 
@@ -112,12 +112,12 @@ $language['errorSFXNotFound'] = 'SFX tidak ditemukan!';
 
 $language['errorListNotFound'] = 'List tidak ditemukan!';
 
-$language['errorCouldntReadFile'] = 'An error has occured when processing this file!';
-$language['errorIsNotAnAudio'] = 'This is not an audio!';
-$language['errorMaxFileSize'] = 'Maximum file size is %1$s MB!';
-$language['errorFileIsEmpty'] = 'This file is empty!';
-$language['errorInvalidURL'] = 'Invalid song URL!';
-$language['errorAlreadyReuploaded'] = 'This song already exists under ID <text dashboard-copy>%1$s</text>!';
+$language['errorCouldntReadFile'] = 'Telah terjadi kesalahan saat memproses file ini!';
+$language['errorIsNotAnAudio'] = 'Ini bukanlah audio!';
+$language['errorMaxFileSize'] = 'Ukuran file maksimum adalah %1$s MB!';
+$language['errorFileIsEmpty'] = 'File ini kosong';
+$language['errorInvalidURL'] = 'URL lagu tidak valid!';
+$language['errorAlreadyReuploaded'] = 'Lagu ini sudah ada di ID <text dashboard-copy>%1$s</text>!';
 
 $language['errorPageIsDisabled'] = 'Halaman ini dinonaktifkan!';
 $language['errorSongRateLimit'] = 'You\'re uploading too many audio in a short amount of time, try again in a few minutes!';
@@ -134,20 +134,20 @@ $language['errorFailedToWriteLevel'] = 'An error has occured while trying to sav
 
 $language['errorCronTooFast'] = 'Please wait a few minutes before running Cron again!';
 
-$language['errorPlayerNotFound'] = 'User wasn\'t found!';
+$language['errorPlayerNotFound'] = 'Pengguna tidak ditemukan!';
 $language['errorBadName'] = 'Mohon pilih nama yang lain!';
 $language['errorBadDesc'] = 'Mohon pilih deskripsi yang lain!';
 
 $language['errorAccountsAutomod'] = 'You may not create accounts for now!';
 $language['errorUsernameTooShort'] = 'Nama pengguna ini terlalu pendek!';
 $language['errorPasswordTooShort'] = 'Kata sandi ini terlalu pendek!';
-$language['errorPasswordsDontMatch'] = 'Your passwords don\'t match!';
-$language['errorEmailsDontMatch'] = 'Your emails don\'t match!';
-$language['errorBadEmail'] = 'Please choose another email!';
-$language['errorEmailInUse'] = 'There is an account using this email!';
+$language['errorPasswordsDontMatch'] = 'Kata sandi anda tidak cocok!';
+$language['errorEmailsDontMatch'] = 'Email anda tidak cocok!';
+$language['errorBadEmail'] = 'Tolong gunakan email yang lain!';
+$language['errorEmailInUse'] = 'Sudah ada akun yang menggunakan email itu!';
 
 $language['errorGauntletNotFound'] = 'Gauntlet tidak ditemukan!';
-$language['errorGauntletWrongLevelsCount'] = 'Gauntlet can have only 5 levels!';
+$language['errorGauntletWrongLevelsCount'] = 'Gauntlet hanya bisa memiliki 5 level!';
 $language['errorMultipleLevelsNotFound'] = 'You specified non-existing levels!';
 
 $language['errorFailedToGetGMD'] = 'An error occured while trying to get level data!';
